@@ -1,6 +1,7 @@
 .DS_STORE
 node_modules
 wwwroot/dist
+.vs
 
 # User-specific files
 *.suo
